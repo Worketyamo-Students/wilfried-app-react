@@ -1,21 +1,21 @@
 Login-page
 ![images teacher](./src/assets/teacher.svg)
-langage utilisé
+langage utilisé:
 
-  html
+  .html
 
-  css
+  .css
 
-  react.js
+  .react.js
 
-  node.js
+  .node.js
 
-  vite
+  .vite
 
 AUTEUR:The Brave Clement
 
 
-EMAIl :wilfriedclémentedzengafana7@gmail.com
+EMAIl :wilfriedclementedzengafana7@gmail.com
 
 
 ## React + TypeScript + Vite

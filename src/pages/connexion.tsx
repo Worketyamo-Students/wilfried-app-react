@@ -40,7 +40,7 @@ const Connexion = () => {
               </div>
         
               <div className="md:justify-center flex md:items-center sm:justify-center sm:items-center lg:justify-center lg:items-center">
-                <button type="submit" className="flex w-[285px] xl:mt-[2rem] sm:ml-[2rem] mt-[-1rem] h-[70px] ml-[10rem] font-[poppins]  duration-500 hover:animation-ping text-center text-[1.5rem] justify-center rounded-[20px] bg-blue-violet px-3 py-5  font-semibold leading-6 text-white shadow-sm hover:bg-[ #7286D3 ] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Connexion</button>
+                <button type="submit" className="flex w-[285px] xl:mt-[2rem] sm:ml-[2rem] mt-[-1rem] h-[70px] ml-[10rem] font-[poppins]  duration-500 hover:animate-Pulse bg-sky-500 infinite text-center text-[1.5rem] justify-center rounded-[20px] bg-blue-violet px-3 py-5  font-semibold leading-6 text-white shadow-sm hover:bg-[ #7286D3 ] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Connexion</button>
               </div>
             </form>
             <div className="flex xl:mt-[2rem] justify-center gap-2 py-10 sm:justify-center ">
