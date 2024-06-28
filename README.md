@@ -1,9 +1,15 @@
-#login-page
--[](./src/assets/teacher.svg)
-.langage utilisé{
-  html,css,react.js,node.js,vite
-}
+Login-page
+![images teacher](./src/assets/teacher.svg)
+langage utilisé
 
+  html,
+  css,
+  react.js,
+  node.js,
+  vite
+
+AUTEUR:The Brave Clement
+EMAIl :wilfriedclémentedzengafana7@gmail.com
 
 
 ## React + TypeScript + Vite
@@ -29,6 +35,7 @@ export default {
     sourceType: 'module',
     project: ['./tsconfig.json', './tsconfig.node.json'],
     tsconfigRootDir: __dirname,
+    
   },
 }
 ```
@@ -36,3 +43,5 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+//Markdown 
